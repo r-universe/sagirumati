@@ -1,0 +1,14 @@
+[
+  {
+    "package": "DynareR",
+    "oncran": true
+  },
+  {
+    "package": "EviewsR",
+    "oncran": true
+  },
+  {
+    "package": "gretlR",
+    "oncran": true
+  }
+]
