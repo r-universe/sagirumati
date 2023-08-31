@@ -8,6 +8,9 @@
 [submodule "EviewsR"]
 	path = EviewsR
 	url = https://github.com/sagirumati/eviewsr
+[submodule "URooTab"]
+	path = URooTab
+	url = https://github.com/sagirumati/urootab
 [submodule "gretlR"]
 	path = gretlR
 	url = https://github.com/sagirumati/gretlr
